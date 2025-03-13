@@ -6,3 +6,7 @@ Repositório para armazenar resumos sobre GIT e GITHUB
 
 Blablablabla....
 
+## Alteração  
+
+Atualização feita no github para testar o pull no diretório local
+
